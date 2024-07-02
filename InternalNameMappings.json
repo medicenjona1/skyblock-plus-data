@@ -52076,6 +52076,10 @@
       "count": 16
     }
   },
+  "TOTEM": {
+    "name": "Totem",
+    "base_rarity": "EPIC"
+  },
   "TOTEM_OF_CORRUPTION": {
     "name": "Totem of Corruption",
     "recipe": {
