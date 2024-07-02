@@ -787,7 +787,7 @@
   },
   "AMBER_NECKLACE": {
     "name": "Amber Necklace",
-    "forge": 64800,
+    "forge": 86400,
     "base_rarity": "EPIC"
   },
   "AMBER_POLISHED_DRILL_ENGINE": {
@@ -819,7 +819,7 @@
   },
   "AMETHYST_GAUNTLET": {
     "name": "Amethyst Gauntlet",
-    "forge": 64800,
+    "forge": 86400,
     "base_rarity": "EPIC"
   },
   "AMETHYST_POWER_SCROLL": {
@@ -10875,7 +10875,7 @@
   },
   "DIVAN_POWDER_COATING": {
     "name": "Divan\u0027s Powder Coating",
-    "forge": 97200,
+    "forge": 129600,
     "base_rarity": "LEGENDARY"
   },
   "DIVER_BOOTS": {
@@ -25446,7 +25446,7 @@
   },
   "JADE_BELT": {
     "name": "Jade Belt",
-    "forge": 64800,
+    "forge": 86400,
     "base_rarity": "EPIC"
   },
   "JADE_CRYSTAL": {
@@ -30525,12 +30525,12 @@
   },
   "MITHRIL_BELT": {
     "name": "Mithril Belt",
-    "forge": 2700,
+    "forge": 3600,
     "base_rarity": "UNCOMMON"
   },
   "MITHRIL_CLOAK": {
     "name": "Mithril Cloak",
-    "forge": 2700,
+    "forge": 3600,
     "base_rarity": "UNCOMMON"
   },
   "MITHRIL_COAT": {
@@ -30591,7 +30591,7 @@
   },
   "MITHRIL_GAUNTLET": {
     "name": "Mithril Gauntlet",
-    "forge": 2700,
+    "forge": 3600,
     "base_rarity": "UNCOMMON"
   },
   "MITHRIL_GENERATOR_1": {
@@ -30896,7 +30896,7 @@
   },
   "MITHRIL_NECKLACE": {
     "name": "Mithril Necklace",
-    "forge": 2700,
+    "forge": 3600,
     "base_rarity": "UNCOMMON"
   },
   "MITHRIL_ORE": {
@@ -42690,7 +42690,7 @@
   },
   "SAPPHIRE_CLOAK": {
     "name": "Sapphire Cloak",
-    "forge": 64800,
+    "forge": 86400,
     "base_rarity": "EPIC"
   },
   "SAPPHIRE_CRYSTAL": {
@@ -51895,12 +51895,12 @@
   },
   "TITANIUM_BELT": {
     "name": "Titanium Belt",
-    "forge": 12150,
+    "forge": 16200,
     "base_rarity": "RARE"
   },
   "TITANIUM_CLOAK": {
     "name": "Titanium Cloak",
-    "forge": 12150,
+    "forge": 16200,
     "base_rarity": "RARE"
   },
   "TITANIUM_DRILL_1": {
@@ -51941,12 +51941,12 @@
   },
   "TITANIUM_GAUNTLET": {
     "name": "Titanium Gauntlet",
-    "forge": 12150,
+    "forge": 16200,
     "base_rarity": "RARE"
   },
   "TITANIUM_NECKLACE": {
     "name": "Titanium Necklace",
-    "forge": 12150,
+    "forge": 16200,
     "base_rarity": "RARE"
   },
   "TITANIUM_ORE": {
